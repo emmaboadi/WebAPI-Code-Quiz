@@ -1,4 +1,4 @@
-const questions = [
+var questions = [
     {
       question: "WWhat does the acronym DOM stand for in JavaScript?",
       options: ["Document Object Model", "Data Object Model", "Document Order Model", "Dynamic Object Manipulation"],
